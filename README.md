@@ -2,7 +2,7 @@
 
 # Project Title
 
-##colour Flipper
+#colour Flipper
 
 ## Table of Contents
 1. [Description](#description)
