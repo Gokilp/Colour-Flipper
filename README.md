@@ -39,7 +39,8 @@ The colour changes randomly with each click, displaying the hex colour code and 
 
 
 ## Demo
-Check out the live demo [here](https://gokilp.github.io/Colour-Flipper/).
+Check out the live demo [here](https://colour-flipper-gold.vercel.app/).
+
 
 
 
